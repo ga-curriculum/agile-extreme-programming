@@ -1,10 +1,8 @@
-<picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture>
+# <picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture> Extreme Programming
 
 | Title | Type | Duration | Author |
 | -- | -- | -- | -- |
 | Extreme Programming | Lesson | 1:25 | Rachel Vigier |
-
-# Extreme Programming
 
 ## Learning Objectives
 
